@@ -1,0 +1,14 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap');
+
+
+form input::placeholder {
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Cormorant SC', sans-serif;
+}
+
+nav {
+    font-family: 'Cormorant SC', sans-serif;
+    font-size: 23px;
+}

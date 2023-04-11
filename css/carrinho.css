@@ -1,0 +1,31 @@
+body {
+    background-color: #ffd1d1 ;
+}
+
+input[type="Button"] {
+padding: 0;
+ background-color: #fc9292;
+ border-color: #fc9292;
+ border-radius: 15px;
+ width: 150px;
+ 
+}
+input[type="Button"]:hover {
+    background-color: #ffc2c2;
+    border-color: #ffc2c2;
+    color: #fff;
+}
+
+
+.img2 {
+    float: right;
+    margin-right: 20rem;
+}
+
+.img1 {
+    float: left;
+}
+
+.img3 {
+    transform: translate(-300px, 320px);
+}

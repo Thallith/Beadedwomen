@@ -1,0 +1,16 @@
+.inputbox {
+    position: relative;
+}
+
+
+.box-1 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.box-3 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 19rem;
+}
